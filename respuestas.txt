@@ -1,0 +1,15 @@
+Tarea 1- Estructuras de Datos (INF-134)
+
+Preguntas teóricas:
+
+1._  ¿Por qué si los pixeles de la imagen son números enteros ∈ [0,255], utilizamos el tipo de dato
+ unsigned char?
+
+ 2._  ¿Cuales serían las diferencias entre usar unsigned int versus unsigned char? Responder
+ cuantitativamente para una imagen RGB de dimensiones (N,N,3).
+
+ 3._Usando este esquema de almacenamiento unidimensional: ¿Cuál sería el índice del primer
+ pixel del canal azul?
+
+ 4._ ¿Cómo podemos convertir una imagen RGB a escala de grises?
+
